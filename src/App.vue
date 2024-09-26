@@ -1,7 +1,5 @@
 <template>
-  <!-- Her er vores dom elementer -->
-
-  <!--indsat billede fra nettet-->
+  <!--Image inserted from imagelink-->
   <img src="https://chirpforbirds.com/wp-content/uploads/2021/02/Blog-featured-image-2-Kingfisher.jpg" alt="Kingfisher"
     width="400" />
   <!--Our display for pepitas values-->
